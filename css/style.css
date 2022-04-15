@@ -95,6 +95,9 @@ body {
     border-radius: 2em;
     font-family: var(--font1);
 }
+.nav-link--cta:hover{
+    background-color: hsl(0, 0%, 90%);;
+}
 
 .hero-main {
     height: 450px;
